@@ -1,10 +1,4 @@
-Claro\! Aqui está uma versão mais genérica do README, sem especificar as tecnologias.
-
-Este modelo é ideal para a fase inicial do projeto, quando a arquitetura e as ferramentas ainda estão sendo definidas.
-
------
-
-# Arlock - Plataforma de Proteção de Propriedade Intelectual 🛡️
+# Arlock - Plataforma de Proteção de Propriedade Intelectual
 
 **Arlock é uma plataforma web projetada para proteger os direitos de criadores de conteúdo na era da Inteligência Artificial generativa.**
 
